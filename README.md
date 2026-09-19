@@ -6,8 +6,8 @@ Movie Explorer is a responsive, modern web application built with React and Tail
 
 ## 🌐 Live Demo & Links
 
-- **Live Demo:** [Your Live Site URL here](https://your-deployment-link.netlify.app)
-- **GitHub Repository:** [Your GitHub Repo URL here](https://github.com/your-username/movie-explorer)
+- **Live Demo:** (https://movie-explorer-blush-eta.vercel.app/)
+- **GitHub Repository:** (https://github.com/ShohagBasak/MovieExplorer.git)
 
 ---
 
