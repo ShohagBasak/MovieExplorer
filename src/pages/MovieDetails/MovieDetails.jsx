@@ -1,5 +1,4 @@
 import { CalendarDays, Star, X } from 'lucide-react';
-import React from 'react';
 
 const MovieDetails = ({ movie, onClose }) => {
     if (!movie) return null;
